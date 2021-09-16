@@ -17,7 +17,7 @@
     "atom": "*"
   },
   "devDependencies": {
-    "standard": "^8.6.0"
+    "standard": "^14.3.2"
   },
   "standard": {
     "globals": [
